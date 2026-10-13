@@ -17564,6 +17564,16 @@
       "added": "2026-10-13",
       "created": "2026-10-09",
       "pushed": "2026-10-13"
+    },
+    {
+      "name": "jevlang",
+      "repo": "TimMikeladze/jevlang",
+      "site": "https://jevlang.sh",
+      "description": "Policy engine for LLM decisions: declare routes, gates and actions in TypeScript or Python, and each decision is answered by Jev, validated, explainable, replayable and audited.",
+      "category": "sdks",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-10-13"
     }
   ]
 }
